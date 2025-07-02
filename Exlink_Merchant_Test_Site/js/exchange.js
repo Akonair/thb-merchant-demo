@@ -1,0 +1,1 @@
+// Logic for USD to THB conversion
